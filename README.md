@@ -1,3 +1,3 @@
-# angular-ivy-w5ewny
+# angular-web-otp-demo
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-w5ewny)
