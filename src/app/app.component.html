@@ -1,0 +1,6 @@
+<h1>Web OTP API demo</h1>
+<form #f="ngForm" [formGroup]="form" (ngSubmit)="formSubmit()">
+  <input type="text" placeholder="verification code" formControlName="otp" appWebOtp (otpChange)=otpChange($event) />
+
+  <button type="submit">Submit</button>
+</form>
